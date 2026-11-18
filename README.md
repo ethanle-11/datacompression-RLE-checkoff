@@ -1,1 +1,1 @@
-# datacompression-RLE-checkoff
+# Run-Length Encoding (RLE)

@@ -95,3 +95,8 @@ gcc src/rle.c -o rle
 The results demonstrate that RLE is most effective for highly repetitive data. When there are few or no repeated characters, the compressed representation can actually be larger than the original.
 
 The program also verifies that decompression produces the original string exactly.
+
+
+## Presentation Slides
+
+https://docs.google.com/presentation/d/1jG92ZCU-QilZ14oJ9XJtEH6X6X0hoxLCggTnw03dBFg/edit?usp=sharing
